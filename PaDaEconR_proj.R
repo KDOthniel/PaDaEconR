@@ -4,3 +4,8 @@
 #* be:
 
 4+5  #* Thanks!
+
+#* This is what I build on top of your codes Othny!
+data("mtcars")
+attach(mtcars)
+plot(mpg~wt)

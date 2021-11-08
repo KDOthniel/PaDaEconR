@@ -7,3 +7,7 @@ I don't know why, but R is just so great!
 
 
 We learn, we learn and we learn.. that is how it works here.. we learn!
+
+
+
+Now that I am feeling the process let me try this!

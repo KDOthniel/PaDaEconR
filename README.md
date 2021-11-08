@@ -11,3 +11,6 @@ We learn, we learn and we learn.. that is how it works here.. we learn!
 
 
 Now that I am feeling the process let me try this!
+
+The philosophy of the model is not so great but it (at least for now..) is working! 
+Let me know lady!
